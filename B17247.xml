@@ -1,0 +1,270 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The true light owned and vindicated, and the believers in it defended and blasphemy and blasphemers justly detected</title>
+            <author>Ashby, Richard, 1663?-1734.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B17247</idno>
+            <idno type="STC">Wing A3943</idno>
+            <idno type="STC">ESTC R35834</idno>
+            <idno type="EEBO-CITATION">15564847</idno>
+            <idno type="OCLC">ocm 15564847</idno>
+            <idno type="VID">103799</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B17247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103799)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1245:42 or 1588:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The true light owned and vindicated, and the believers in it defended and blasphemy and blasphemers justly detected</title>
+                  <author>Ashby, Richard, 1663?-1734.</author>
+                  <author>Fiddeman, John.</author>
+                  <author>Cade, John.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed: Richard Ashby, John Fiddeman, John Cade.</note>
+                  <note>Item at reel 1588:10 identified as Wing C193A (number cancelled).</note>
+                  <note>Reproduction of the originals in the British Library and Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Inner Light.</term>
+               <term>Society of Friends --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103799:1" rendition="simple:additions"/>
+            <p>THE TRUE LIGHT Owned and Vindicated, AND THE BELIEVERS IN IT DEFENDED: AND <hi>Blaſphemy</hi> and <hi>Blaſphemers</hi> Juſtly Detected.</p>
+            <q>
+               <bibl>Rom. 2. 1.</bibl>
+               <p>Therefore thou art inexcuſable, O Man, whoever thou art, that judged: For wherein thou judgeſt another, thou con<g ref="char:EOLhyphen"/>demneſt thy ſelf; for thou that judgeſt, doeſt the ſame things.</p>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed and Sold by <hi>T. Sowle,</hi> in <hi>White-Hart-Court</hi> in <hi>Gracious-Street,</hi> and at the <hi>Bible</hi> in <hi>Leaden-Hall-Street,</hi> 1699.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:103799:2"/>
+            <pb facs="tcp:103799:2"/>
+            <head>TO THE READER.</head>
+            <opener>
+               <salute>Friendly Reader,</salute>
+            </opener>
+            <p>ONE Eminent Proof of a <hi>Chriſtian</hi> is, a Peace<g ref="char:EOLhyphen"/>able Spirit, and his living, as much as in him lies, at Peace with all Men: Indeed it is a State and Station ſo deſireable by us, that had we met with Reflections and Revilings which were only Perſonal, we value the Peace and Comfort of <hi>Retire<g ref="char:EOLhyphen"/>ment</hi> ſo much, that we ſhould have willingly lain down under it, with only ſpeaking to the Perſons that have injured us: But the occaſion of our now appearing is Doctrinal, and in Defence of the Holy <hi>Light within,</hi> which ſome <hi>Prieſts</hi> in <hi>Norfolk</hi> have Charged with Expoſing Us, the Followers of it, to <hi>Blaſphemy,</hi> as taught by us.</p>
+            <p>Now our Oppoſers pretend to Accuſe Us out of the Writings of ſome of our <hi>Friends,</hi> but have hitherto dealt unfairly by us, in refuſing us the Knowledge of thoſe Books, and their Pages, wherein they are diſ<g ref="char:EOLhyphen"/>ſatisfied; which, if they had granted us, it might have made way for an Amicable Satisfaction.</p>
+            <p>We have been Converſant with ſome of the Wri<g ref="char:EOLhyphen"/>tings of our <hi>Friends,</hi> but know not any Book (to be juſt to the Author) that has any ſuch groſs Conſe<g ref="char:EOLhyphen"/>quence to be drawn from it; if we met with any thing of that Nature, we ſhould with Sincerity Deteſt the ſame: And we have deſired Juſtice in this reſpect, <hi>viz.</hi> To know the <hi>Name of the Author, Book and Page;</hi>
+               <pb facs="tcp:103799:3"/> but they have denied us, which makes us conclude, that it is a contrived Buſineſs by them, <hi>1ſt.</hi> To caſt that Scandal and Odium upon us, and then endeavour to Incenſe the Government againſt us. And indeed their Practice in our Country of <hi>Norfolk,</hi> to ſtir up ſome Mgiſtrates againſt us, and to carry it further, <hi>viz. To Incenſe the Government,</hi> doth ſufficiently ſhew, that it was a deſign: Yet we know there is an Over-ruling Power, that bounds and limits all things, and before him we ſpread our Cauſe, and doubt not, but he will be our Helper in every Exerciſe, that comes up<g ref="char:EOLhyphen"/>on us.</p>
+            <p>And this know, tho' we have returned the Charge upon theſe our Adverſaries, it is not that we delight in Controverſie, but to Vindicate that Glorious Truth, the <hi>God and Father of our Lord Jeſus Chriſt</hi> hath made known unto us.</p>
+            <p>And now we Appeal to all People, that have had knowledge of us, whether we have Acted like <hi>Blaſ<g ref="char:EOLhyphen"/>phemers:</hi> For God knoweth our Hearts and Conſciences, we are not Conſcious to our ſelves herein.</p>
+            <p>This is our tender and juſt Requeſt to all that ſhall read this enſuing Treatiſe, <hi>Lay aſide all Partiality, and</hi> (Noble Berean-<hi>like) examine the Teſtimony of Scripture, and ſee whether what we have herein Aſſerted be not Con<g ref="char:EOLhyphen"/>ſonant therewith.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="religious_treatise">
+            <pb n="5" facs="tcp:103799:3"/>
+            <head>THE TRUE LIGHT Owned and Vindicated, <hi>&amp;c.</hi>
+            </head>
+            <p>COntroverſie we love not, but are concern'd to appear in the juſt Defence of our <hi>Holy Pro<g ref="char:EOLhyphen"/>feſſion;</hi> and at this time, more Principally, of that divine <hi>Light within,</hi> which being ſtruck at by certain <hi>Prieſts</hi> in <hi>Norfolk,</hi> who are in an eager Purſuit after us, as though they had a deſign to devour us at once; and for that end, they have endeavoured to blacken the People called <hi>Quakers</hi> with moſt groſs Charges of <hi>Blaſphemy,</hi> and in as high a Nature as well could be Exhibited againſt a People: And all this with a deſign to render us Obnoxious to the Go<g ref="char:EOLhyphen"/>vernment, who have granted us the <hi>free Exerciſe of our Conſciences towards God:</hi> For which Priviledge we have been and are truly Thankful unto God and the Government, and hope we ſhall never give occaſion unto them to abridge us of the ſame.</p>
+            <p>But we being of late Expoſed in Print, by a Charge of <hi>Blaſphemy,</hi> and ſeveral loud <hi>Clamours,</hi> as though we were <hi>Blaſphemers;</hi> and that <hi>Henry Meriton, John Meri<g ref="char:EOLhyphen"/>ton,</hi> and <hi>Laurence Parke,</hi> the Prieſts aforeſaid, might do their Buſineſs effectually, in Charging us, they have given under their Hands, in their firſt Letter, theſe Charges, <hi>viz.</hi> That we, the People called <hi>Quakers,</hi> are guilty of Blaſphemy; take it in their own words (ſay they)
+<q>
+                  <list>
+                     <pb n="6" facs="tcp:103799:4"/>
+                     <item>I. We Charge you, with Blaſphemy againſt God.</item>
+                     <item>II. We Charge you with Blaſphemy againſt Jeſus Chriſt.</item>
+                     <item>III. We Charge you, with Blaſphemy againſt the Holy Scriptures.</item>
+                  </list>
+               </q>
+            </p>
+            <p>Very high, and moſt ſevere Charges; and to com<g ref="char:EOLhyphen"/>pleat and confirm their Charges, ſays, in their Fifth Charge,
+<q>V. We Charge you, That the Light within, as taught by you, leaves you without any certain Rule, and expoſes you to the fore-mentioned, and many other Blaſphe<g ref="char:EOLhyphen"/>mies.</q>
+            </p>
+            <p>Now this being Aſſigned by them, for the Expoſing Cauſe of the afore-mentioned, and many other Blaſ<g ref="char:EOLhyphen"/>phemies; we ſhall make it appear, that it hath no ſuch Tendency, or Expoſing Cauſe or Effect in it: So we may conclude the whole Structure of their Charges, being built upon it, becomes Null and Void; and in<g ref="char:EOLhyphen"/>ſtead of Proving the <hi>Quakers</hi> Blaſphemers, they (the aforeſaid <hi>Prieſts</hi>) have brought the <hi>Guilt of Blaſphemy</hi> upon themſelves, in all thoſe Particulars, they have Charged the <hi>Quakers</hi> withal, which is plainly Proveable upon them: And God will plead with them, for that great Indignity they have offered to his <hi>Divine Being,</hi> who is the Glorious and Everlaſting Light, and Shines in Man. It's probable theſe Men ſee not what they have done; for Prejudice hath blinded them, and drawn them into a Fierce Purſuit of the <hi>Quakers,</hi> and that cauſleſsly too, which has inſnared themſelves. But had they minded that Exhortation of <hi>Paul, Philip.</hi> 4. 5. they had not loſt the Conduct of <hi>Modera<g ref="char:EOLhyphen"/>tion,</hi> which might have kept them back, from wrong<g ref="char:EOLhyphen"/>ing an Innocent People, and alſo have preſerved them from that <hi>Guilt of Blaſphemy</hi> they have brought upon themſelves; and the <hi>Beam is in their own Eyes,</hi> Mat. 7.
+<pb n="7" facs="tcp:103799:4"/> 3, 4. And they <hi>are taken in their own Snare,</hi> which they have laid for the <hi>Quakers.</hi> Here are their Charges truly Stated and Applied, according to what they im<g ref="char:EOLhyphen"/>port, againſt the Quakers.</p>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>I.</hi> We Charge you, with Blaſphemy againſt God.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>How cometh this to be ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We Charge you, That the Light within, as taught by you, expoſes you to Blaſpheme God.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>II.</hi> We Charge you, with Blaſphemy againſt Jeſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>How cometh this to be ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We Charge you, That the Light within, as taught by you, expoſes you to Blaſpheme Jeſus Chriſt.</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>
+                  <hi>III.</hi> We Charge you, with Blaſphemy againſt the Holy Scriptures.</p>
+            </sp>
+            <sp>
+               <speaker>Qu.</speaker>
+               <p>How cometh this to be ſo?</p>
+            </sp>
+            <sp>
+               <speaker>Pr.</speaker>
+               <p>We Charge you, That the Light within, as taught by you, expoſes you to Blaſpheme the Holy Scriptures.</p>
+               <p>
+                  <hi>Ay!</hi> And not only the fore-mentioned, but many other Blaſphemies, the Light within, as taught by you, expoſes you unto.</p>
+            </sp>
+            <p>Now let all Moderate People judge, by what here followeth, whether theſe Men before-mentioned are not become Guilty of Blaſphemy themſelves, in every reſpect, as is above-ſaid: For <hi>Firſt,</hi> We do Solemnly, and in good Conſcience, Teſtifie and Declare, in be<g ref="char:EOLhyphen"/>half of the People called <hi>Quakers,</hi> That they Profeſs and Teach no other <hi>Light within,</hi> for Man to be led and guided by, than what the Holy Scriptures hold forth, and declares of very plainly, concerning the <hi>Eternal God,</hi> and <hi>Jeſus Chriſt, the Eternal Son of God,</hi> and the <hi>Eternal Spirit, proceeding from the Father and the Son; who with the Father and Son, is one God bleſſed for ever.</hi>
+            </p>
+            <pb n="8" facs="tcp:103799:5"/>
+            <p>Now, ſaith the Scripture, 1 <hi>John 1. 5. This then is the Meſſage that we have heard of him, and declare unto you, That God is Light, and in him is no Darkneſs at all:</hi> And Verſe 7. <hi>If we walk in the Light, as he is in the Light, then have we Fellowſhip one with another, and the Blood of Jeſus Chriſt his Son cleanſeth us from all Sin.</hi> 1 Cor. 4. 6. <hi>For God, who commanded the Light to ſhine out of Darkneſs, hath ſhined in our Hearts, to give the Light of the Knowledge of the Glory of God in the Face of Jeſus Chriſt.</hi> This they, the Quakers, teach, and nothing contrary, nor repugnant thereunto (nor never did.)</p>
+            <p>Now, ſaith the Prieſts aforeſaid, in their Fifth Charge, <hi>We Charge you, That the Light within, as taught by you, expoſes you to the afore-mentioned, and many other Blaſphemies.</hi>
+            </p>
+            <p>Obſerve, The <hi>Quakers</hi> are taught to believe, ac<g ref="char:EOLhyphen"/>cording to the afore-mentioned Teſtimonies of Scrip<g ref="char:EOLhyphen"/>ture, That God is Light, and Shines in Man, to make Man Fruitful in the Knowledge of Himſelf: Therefore God's Appearance within, is their Light within. And this the true Miniſters teach, according as every one hath received Ability from God: And contrary to this the <hi>Quakers</hi> never taught.</p>
+            <p>Now ſaith <hi>H. M. J. M.</hi> and <hi>L. P.</hi> in their afore<g ref="char:EOLhyphen"/>mentioned Charge, <hi>viz. We Charge you, That the Light within, as taught by you, expoſes you to Blaſpheme God.</hi>
+            </p>
+            <p>Now the <hi>Quakers</hi> teach no other Light, but what the Holy Scriptures do plainly and plentifully declare of, <hi>viz. Jeſus Chriſt,</hi> as God's Covenant of Light, who came in the Fleſh, in the fulneſs of Time; <hi>who was Conceived of the Holy Ghoſt, and Born of the Virgin</hi> Mary, <hi>Mat.</hi> 1. 18. and 2. 1, 2. <hi>Luke</hi> 1. 30, 35. and 2. 11.
+<pb n="9" facs="tcp:103799:5"/> Being of the Seed of <hi>Abraham</hi> and <hi>David,</hi> according to the Fleſh; and in the Body by the Grace of God: <hi>Taſted Death for every Man,</hi> Heb. 2. 9. <hi>Offered up him<g ref="char:EOLhyphen"/>ſelf a Sacrifice for Sins, acceptable and well-pleaſing to God the Father,</hi> Eph. 5. 2. <hi>Bearing our Sins in his own Body on the Tree, that we being dead to Sin, ſhould live unto Righteouſneſs;</hi> by whoſe <hi>Stripes</hi> healing comes to the truly Believing Soul, 1 <hi>Pet. 2. 24. And that through Death, he might deſtroy him that hath the Power of Death; and bring forth Life and Immortality unto Light, through the Goſpel of the Grace of God,</hi> Heb. 2. 14. 2 Tim. 1. 9, 10. <hi>And is declared to be the Son of God, with Power, according to the Spirit of Holineſs, by the Reſurrection from the Dead,</hi> Rom. 1. 3, 4. <hi>And is aſcended into Hea<g ref="char:EOLhyphen"/>ven, ſits at the Right Hand of God, glorified with the ſame Glory that he had with the Father, before the World was,</hi> John 17. 5. And is our <hi>Mediator,</hi> appearing in the Preſence of God for us; and in the appointed Time of God the Father, ſhall come to Judge the Quick and the Dead; and now is in a moſt Spiritual Glorious Manner with his Church: And in his Divine Being is one with the Father; and is Eminently Declared of, as God's Covenant of Light, as the Holy Scrip<g ref="char:EOLhyphen"/>tures witneſſeth; <hi>John 1. 1, 2, 3, 4. In the Beginning was the Word, and the Word was with God, and the Word was God. The ſame was in the beginning with God: All things were made by him; and without him was not any thing made that was made. In him was Life, and the Life was the Light of Men.</hi> Verſ. 6, 7, 8, 9. <hi>There was a Man ſent from God, whoſe name was</hi> John: <hi>The ſame came for a Witneſs, to bear Witneſs of the Light, that all Men through him might Believe. He</hi> (John) <hi>was not that Light, but was ſent to bear Witneſs of that Light: That was the true Light, which lighteth every
+<pb n="10" facs="tcp:103799:6"/> Man that cometh into the World.</hi> John 8. 12. <hi>Then ſpake Jeſus again unto them, ſaying, I am the Light of the World; he that followeth me, ſhall not abide in Dark<g ref="char:EOLhyphen"/>neſs, but ſhall have the Light of Life.</hi> And <hi>Paul,</hi> that able Miniſter of Jeſus Chriſt, was ſent to the <hi>Gentiles,</hi>
+               <note place="margin">Acts 26. 18.</note> 
+               <hi>To open their Eyes, and to turn them from Darkneſs to Light, and from the Power of Satan unto God, that they might receive Forgiveneſs of Sins, and Inheritance among them which are Sanctified by Faith that is in Chriſt.</hi>
+            </p>
+            <p>And when ſome were turned to the Lord at <hi>Ephe<g ref="char:EOLhyphen"/>ſus,</hi> he ſaith unto them, <hi>Ye were ſometimes Darkneſs,</hi>
+               <note place="margin">Eph. 5. 8, 9, 10.</note> 
+               <hi>but now are ye Light in the Lord: Walk as Children of Light (for the Fruit of the Spirit is in all Goodneſs, and Righteouſneſs, and Truth) Proving what is acceptable un<g ref="char:EOLhyphen"/>to the Lord.</hi> And other Scriptures plainly ſhew forth the Excellent Appearance of Chriſt, as God's Covenant of Light, as <hi>Iſaiah 49. 6. Luke</hi> 1. 78, 79. and 2. 32. <hi>Acts</hi> 13. 47.</p>
+            <p>Now as God is in Chriſt, and he ſaith, <hi>I and my Father are One:</hi> So is he the Divine Light in Man; and we own no other <hi>Light within</hi> for a Teacher, but as is aforeſaid, of the Father and Son, Inlightning us by the Holy Spirit: And we profeſs no other <hi>Light within</hi> to be our Guide.</p>
+            <p>Now the Prieſts Second Charge is, <hi>Blaſphemy againſt Jeſus Chriſt;</hi> and ſay they, <hi>We Charge you, That the Light within, as taught by you, expoſes you to Blaſpheme Jeſus Chriſt.</hi>
+            </p>
+            <p n="1">1. If the Light which ſhines in the Heart of Man, be God and Chriſt, as we believe and teach, then it's impoſſible the <hi>Light within,</hi> ſo taught by us, ſhould expoſe us to Blaſphemy againſt God, Chriſt, or the Holy Scriptures.</p>
+            <pb n="11" facs="tcp:103799:6"/>
+            <p>But the <hi>Light</hi> which ſhines in the Heart of Man, is God and Chriſt, Therefore, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. If the holy Scriptures proceeded from this divine <hi>Light within,</hi> as we believe and teach, then it is impoſ<g ref="char:EOLhyphen"/>ſible this divine <hi>Light within,</hi> ſhould expoſe us to <hi>Blaſ<g ref="char:EOLhyphen"/>phemy</hi> againſt the holy Scriptures.</p>
+            <p>But the holy Scriptures proceeded from this divine <hi>Light within,</hi> therefore, <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. Now we the People called <hi>Quakers,</hi> do own and teach no other <hi>Light within,</hi> to be our Guide, but what the Scriptures do declare of, concerning God, Je<g ref="char:EOLhyphen"/>ſus Chriſt and the holy Spirit; and as the Scri<g ref="char:EOLhyphen"/>ptures teſtifie of the <hi>Light,</hi> ſo they ſet forth its Teachings. Pſal. 43. 3. <hi>O ſend out thy Light and thy Truth; let them lead me, let them bring me, unto thy holy Hill, and to thy Tabernacles:</hi> Pſal. 36. 9. <hi>For with thee is the Fountain of Life, in thy Light ſhall we ſee Light:</hi> Pſal. 119. 105. <hi>Thy Word is a Lamp unto my Feet, and a Light unto my Paths.</hi> John 12. 36. <hi>While you have the Light, believe in the Light, that you may be Children of Light;</hi> and verſe 46. (ſaith Chriſt) <hi>I am come a Light into the World, that whoſoever believes in me, may not abide in Darkneſs:</hi> John 3. 21. <hi>But he that doth Truth, cometh to the Light, that his Deeds may be made manifeſt, that they are all wrought in God.</hi> But to the Unbelievers hear what the Scriptures ſay, <hi>Iſa. 10. 17. The Light of Iſrael ſhall be for a Fire, and his holy One for a Flame, and it ſhall burn and devour his Thorns and his Briers in one Day:</hi> John 3. 19, 20. <hi>And this is the Condemnation that Light is come into the World, and Men love Darkneſs rather than Light, be<g ref="char:EOLhyphen"/>cauſe their Deeds were Evil; For every one that doth Evil, hateth the Light; neither cometh to the Light, leſt his Deeds ſhould be reproved:</hi> Eph. 5. 13, 14. <hi>But all things
+<pb n="12" facs="tcp:103799:7"/> that are reproved, are made manifeſt by the Light: For whatſoever doth make manifeſt is Light:</hi> Wherefore he ſaith, <hi>Awake thou that Sleepeſt, and ariſe from the Dead, and Chriſt ſhall give thee Light:</hi> 1 John 1. 7. <hi>If we walk in the Light, as he is in the Light, then have we fellowſhip one with another; and the Blood of Jeſus Chriſt his Son, cleanſeth us from all Sin:</hi> 1 John 2. 10. <hi>He that loveth his Brother abideth in the Light, and there is none occaſion of ſtumbling in him.</hi>
+            </p>
+            <p>The holy Scripture doth excellently ſet forth the true <hi>Light</hi> in Man, and the precious Benefits received by believing in it, and walking in it; it guides to Chriſt the Fountain, that we may be waſhed, and know the cleanſing Vertue of his Blood, and thereby know a part with him: Yea, a holy Intereſt ſealed to our Immortal Souls.</p>
+            <p>Now the Scriptures bears this Teſtimony to, and concerning, the <hi>divine Light,</hi> and the <hi>Quakers</hi> own nor teach no other <hi>Light</hi> for their Guide, than as the Scri<g ref="char:EOLhyphen"/>ptures doth thus plentifully ſet forth, and bear Teſti<g ref="char:EOLhyphen"/>ſtimony unto: Therefore they that contradict the Scri<g ref="char:EOLhyphen"/>pture in their Teſtimony concerning the divine <hi>Light within,</hi> and its teachings, they <hi>Blaſpheme</hi> the Scri<g ref="char:EOLhyphen"/>ptures. But the Prieſts aforeſaid do contradict the Scripture; therefore they Blaſpheme the holy Scri<g ref="char:EOLhyphen"/>pture-Teſtimony, in ſaying, <hi>The</hi> Light within <hi>as taught by us, expoſes the followers of it to Blaſphemy.</hi> And until they can prove that the <hi>Quakers</hi> teach another <hi>Light,</hi> than what is aforementioned, their Charges are returned upon themſelves. 1ſt, <hi>Guilty of Blaſphemy againſt God.</hi> 2ly, <hi>Guilty of Blaſphemy againſt Jeſus Chriſt.</hi> 3ly. <hi>Guilty of Blaſphemy againſt the holy Scriptures:</hi> And all this is proved upon them, from their <hi>5th</hi> Charge under their own Hands, and lies upon them until they
+<pb n="13" facs="tcp:103799:7"/> can make it appear, that the <hi>Quakers</hi> hold forth ſome<g ref="char:EOLhyphen"/>thing elſe for the <hi>Light,</hi> than what the Scripture wit<g ref="char:EOLhyphen"/>neſſeth unto, concerning the divine <hi>Light,</hi> which we are ſatisfied they can never do; and indeed looks like a piece of Madneſs in theſe Undertakers, that they ſhould Charge Chriſt the <hi>Light within</hi> to expoſe to <hi>Blaſ<g ref="char:EOLhyphen"/>phemy.</hi>
+            </p>
+            <p>O! how will they anſwer this in the great Day of Judgment, to offer ſuch great indignity to God, the <hi>Fa<g ref="char:EOLhyphen"/>ther</hi>
+               <note place="margin">Jam. 1. 17.</note> 
+               <hi>of Lights?</hi> O! that they might find a place of Re<g ref="char:EOLhyphen"/>pentance, for God inlightens mankind not to expoſe them to Error, but to ſhew and preſerve them out of It. And Man cannot Err in following of the <hi>Light,</hi> but doth always Err, when he goes from, or Rebels againſt the <hi>Light. They are of thoſe that re<g ref="char:EOLhyphen"/>bel</hi>
+               <note place="margin">Job 24. 13.</note> 
+               <hi>againſt the Light, they know not the ways thereof, nor abide in the Paths thereof: But the Path of the</hi>
+               <note place="margin">Prov. 4 18. 19.</note> 
+               <hi>Juſt is as a ſhining Light, that ſhineth more and more unto the perfect Day: The way of the wicked is as Dark<g ref="char:EOLhyphen"/>neſs, they know not at what they ſtumble.</hi> Thus it's plain, when Man Errs, he goes from the <hi>Light,</hi> and therefore he is judged by the <hi>Light:</hi> And if any pro<g ref="char:EOLhyphen"/>feſſing the <hi>Light</hi> for their Leader, do Err (which they may) the <hi>Light</hi> it ſelf is not to be charged there<g ref="char:EOLhyphen"/>with, becauſe it leads Man to abſtain from every ap<g ref="char:EOLhyphen"/>pearance of <hi>Evil, and to cleave to that which is Good:</hi> To<note place="margin">Rom. 12. 9.</note> eſchew Evil, and do Good, and live for ever more; Bleſſed be the Name of the Lord, who hath preſerv<g ref="char:EOLhyphen"/>ed the holy Scriptures, that we have the Teſtimony thereof, which are ſo plain concerning theſe divine Truths; happy are they, that know the Light of God's holy Spirit to inſpire and inlighten Them; they can ſay, that which was <hi>written aforetime, was written for our Learning, that we through Patience, and the Com<g ref="char:EOLhyphen"/>fort</hi>
+               <note place="margin">Rom. 15. 4.</note>
+               <pb n="14" facs="tcp:103799:8"/> 
+               <hi>of the Scriptures might have hope:</hi> And they are truly <hi>profitable for Doctrine, Reproof, Correction, Inſtru<g ref="char:EOLhyphen"/>ction</hi>
+               <note place="margin">2 Tim. 3. 16. 17.</note> 
+               <hi>in Righteouſneſs, that the Man of God</hi> (which none can truly be, but as they are <hi>led by the Spirit of</hi>
+               <note place="margin">Rom. 8. 14.</note> 
+               <hi>God) may be perfect; throughly furniſhed unto every good Work.</hi>
+            </p>
+            <p>The Lord open the eyes of Nations, and (if it be his Will) all People that they may come to his <hi>Light,</hi>
+               <note place="margin">Iſa. 60. 3.</note> that the <hi>Light</hi> of the knowledge of the Glory of God<note place="margin">11. 9.</note> may cover the Earth, as the Waters cover the Sea; that ſo Darkneſs may be diſperſed, and Wickedneſs put an end unto, and Sincerity, Integrity, Tender<g ref="char:EOLhyphen"/>heartedneſs, with Love unfeigned, may grow amongſt all People: So ſhall we wear the <hi>Badge</hi> of Chriſt's<note place="margin">John 15. 12.</note> Diſciples. This will open our Hearts more and more, in Love towards God, and this will diſpoſe and in<g ref="char:EOLhyphen"/>cline us to <hi>Hunger and Thirſt after Righteouſneſs,</hi> ſo<note place="margin">Mat. 5. 6.</note> ſhall we have a taſte of Heaven here, and by abideing faithful, and following the Lord fully, ſhall have an aſſurance of the full enjoyment thereof hereafter; which the Lord grant, for his dear Son's Sake, to all ſincere tenderhearted People, of whatſoever Name or Profeſſion they may be; is our deſire, who love So<g ref="char:EOLhyphen"/>briety and Tenderheartedneſs among all Perſwaſions.</p>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Richard Aſhby,</item>
+                     <item>John Fiddeman,</item>
+                     <item>John Cade.</item>
+                  </list>
+               </signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:103799:8"/>
+         </div>
+      </body>
+   </text>
+</TEI>
